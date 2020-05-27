@@ -1,10 +1,9 @@
 import Vue from 'vue'
-import { Button } from 'ant-design-vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
 
-Vue.component(Button.name, Button)
+import './antd'
 
 Vue.config.productionTip = false
 
