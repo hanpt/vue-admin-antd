@@ -5,6 +5,8 @@ import store from './store'
 
 import './antd'
 
+import '@/common/styles/index.less'
+
 Vue.config.productionTip = false
 
 new Vue({

@@ -59,7 +59,7 @@ export default {
 .login {
   height: 100%;
   position: relative;
-  background: #002140;
+  background: @colorBg;
 }
 .login-form {
   width: 300px;
